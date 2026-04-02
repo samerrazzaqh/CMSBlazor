@@ -1,3 +1,3 @@
 <h1>Content Management System Blazor .NET</h1> 
 
-## About
+<button type="button" class="btn btn-primary">Primary</button>
